@@ -1,6 +1,7 @@
 p
 {
 	font-family: courier;
+	font-size: 0.9em;
 }
 
 body
@@ -134,12 +135,6 @@ article h1
 {
 	font-family: courier;
 	font-size: 2em;
-}
-
-article p
-{
-	font-family: courier;
-	font-size: 0.9em;
 }
 
 
