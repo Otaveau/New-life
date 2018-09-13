@@ -1,0 +1,159 @@
+h1, h2, p
+{
+	font-family: courier; 
+	color: black;
+}
+
+h3
+{
+	font-family: courier; 
+	font-style: italic;
+	color: grey;
+	font-size: 1em;
+}
+
+body
+{
+	background-color: #E7E3DE;
+}
+
+#bloc_page
+{
+	width: 800px;
+	margin: auto;
+}
+
+header
+{
+	display: flex;
+	justify-content : space-between;
+	align-items: flex-end;
+}
+
+header img
+{
+	box-shadow: 0px 4px 4px 0px;
+	color: grey;
+
+}
+
+#titre_principal
+{
+	display : flex;
+	flex-direction : column;
+}
+
+header h1
+{
+	font-size: 3em;
+	font-weight: bold;
+	margin: 0px;
+}
+
+header h2
+{
+	font-size: 1,1em;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-right: 0px;
+	font-weight: normal;
+	text-align: right;
+}
+
+#banniere_image
+{
+	margin-top: 15px;
+	height: 140px;
+	border-radius: 5px;
+	background: url("avion.jpg") no-repeat;
+	box-shadow: 0px 4px 4px;
+	margin-bottom: 25px;
+	opacity: 0.8;
+	color: black;
+}
+
+
+#sommaire
+{
+	display: flex;
+	flex-direction: column;
+}
+
+nav ul
+{
+	font-family: courier; 
+	font-size: 1.8em;
+	text-align: center;
+}
+
+nav ul
+{
+	list-style-type: none;
+	display: flex;
+	margin-top: 50px
+}
+
+nav li 
+{
+	margin-left: 20px;
+}
+
+nav a
+{
+	font-size: 1,3em;
+	color: #181818;
+	padding-bottom: 3px;
+	text-decoration: none;
+}
+
+nav a:hover
+{
+	color: yellow;
+}
+
+section
+{
+	margin-bottom : 20px;
+}
+
+
+section img
+
+{
+	margin: center;
+	margin-left: 150px;
+}
+
+
+article
+{
+	text-align: justify;
+}
+
+article
+{
+	margin-right: 20px; 
+	flex: 3;
+}
+
+article h1
+{
+	font-size: 1.5em;
+}
+
+article p
+{
+	font-size: 0.9em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
