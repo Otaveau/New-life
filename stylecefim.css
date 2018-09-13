@@ -4,6 +4,14 @@ p
 	font-size: 0.7em;
 }
 
+article h3
+{
+	font-family: courier;
+	font-size: 0.7em;
+	color: grey;
+	font-style: italic;
+}
+
 body
 {
 	background-color: #E7E3DE;
